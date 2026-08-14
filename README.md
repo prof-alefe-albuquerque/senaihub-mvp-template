@@ -56,9 +56,10 @@ A partir da **Seção 3** abaixo, este arquivo se torna a **SUA** documentação
 
 ### VÍDEO PITCH E LINKS FINAIS
 🔗 Link do Vídeo Pitch: [Cole aqui o link do seu vídeo de apresentação no YouTube/Drive. Certifique-se de que o acesso está público ou não listado!]
+
 🔗 Link do MVP Online (Opcional): [Se o seu sistema estiver hospedado em nuvem, cole a URL de acesso aqui.]
 
-### ⚙️ Como rodar o projeto localmente
+### Como rodar o projeto localmente
 [Escreva o passo a passo exato e os comandos necessários para que a banca examinadora consiga rodar a sua aplicação no computador. Exemplo abaixo:]
 
 ```bash
